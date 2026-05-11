@@ -14,5 +14,6 @@ The main focus in this project is to analyze the different salaries around the w
 4) Setting and Answering questions: In this section i set main question which i answered using plots.
 5) Machine learning preparation: Transforming categorical data into numerical (encoding)
 
-##
+## Plot
+<img width="1089" height="627" alt="BoxPlot" src="https://github.com/LeoTarulli/SalarySurvey_EDA/blob/main/BasicBoxPlot-Salary.png"/>
 
